@@ -19,7 +19,7 @@
 {
   "firstName": "Stan",
   "lastName": "Sielicki",
-  "age": 60
+  "age": ??
 }
 ```
 That is so funny! I like coding. :Stan:
