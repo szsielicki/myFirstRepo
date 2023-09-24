@@ -4,8 +4,8 @@
 ## H2
 ### H3
 
-**bold text**
-*italicized text*
+**Bold text**
+*Italicized text*
 
 1. First item
 2. Second item
@@ -17,9 +17,10 @@
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Stan",
+  "lastName": "Sielicki",
+  "age": 60
 }
 ```
-That is so funny! I like coding. :joy:
+That is so funny! I like coding. :Stan:
+I really like using Markdown.
